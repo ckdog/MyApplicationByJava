@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chapter03</string>
+    <string name="txtStr">text文本设置txt</string>
+</resources>

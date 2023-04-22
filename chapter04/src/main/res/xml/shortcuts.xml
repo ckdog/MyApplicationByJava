@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:shortcutId="photo"
+        android:enabled="true"
+        android:icon="@drawable/icon_photo"
+        android:shortcutShortLabel="@string/shortname"
+        android:shortcutLongLabel="@string/longname">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.chapter04"
+            android:targetClass="com.example.chapter04.demo.ReadActivity"
+            />
+
+        <categories android:name="android.shortcut.conversion" />
+
+    </shortcut>
+</shortcuts>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--有顺序要求 checked标签必须放在第一位，默认图标放在下边-->
+    <item android:drawable="@drawable/checkbox_checked_48px_icon" android:state_checked="true" />
+    <item android:drawable="@drawable/checkbox_48px_icon"/>
+</selector>

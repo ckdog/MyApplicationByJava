@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_radio_height">30dp</dimen>
+    <dimen name="common_font_size">20sp</dimen>
+    <dimen name="item_input_height">50dp</dimen>
+    <dimen name="font_size_small">15sp</dimen>
+    <dimen name="font_size_large">50sp</dimen>
+
+</resources>

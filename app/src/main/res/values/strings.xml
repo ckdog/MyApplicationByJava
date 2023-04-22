@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My ApplicationByJava</string>
+    <string name="layouttxt">自定义txt</string>
+</resources>

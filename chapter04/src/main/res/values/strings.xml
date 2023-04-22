@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">chapter04</string>
+    <string name="weather">打晴天那</string>
+    <string name="shortname">photo</string>
+    <string name="longname">美图拍照！</string>
+    <string name="login_by_pasword">密码登录</string>
+    <string name="login_by_verifycode">验证码登录</string>
+    <string name="phone_num">手机&#160;&#160;&#160;&#160;号码：</string>
+    <string name="phone_hint">请输入手机号</string>
+    <string name="password">登录&#160;&#160;&#160;&#160;密码：</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="remember_password">记住密码</string>
+    <string name="login">登录</string>
+    <string name="verifycode">验证码登录:</string>
+    <string name="sendcode">获取验证码</string>
+    <string name="inpt_vercod">请输入验证码</string>
+    <string name="re_input_password">重新输入密码：</string>
+    <string name="confirm_password">确认新密码：</string>
+    <string name="vericod">&#160;&#160;&#160;&#160;验证码：</string>
+
+</resources>
